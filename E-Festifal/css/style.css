@@ -1,0 +1,19 @@
+.container-fluid{
+    background-image: url(../img/danny-howe-bn-D2bCvpik-unsplash.jpg);
+}
+
+/*Footer*/
+
+.footer-bottom{
+    background: #000;
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-bottom p{
+    color: white;
+    font-size: 12px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
